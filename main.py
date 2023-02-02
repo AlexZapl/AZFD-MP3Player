@@ -7,6 +7,8 @@ import time
 
 from PIL import ImageTk, Image
 
+#a small mp3
+
 lmode15 = "gray15"
 lmode12 = "gray12"
 lmode25 = "gray25"
